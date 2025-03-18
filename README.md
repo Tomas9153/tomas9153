@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **Tomas9153/tomas9153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
